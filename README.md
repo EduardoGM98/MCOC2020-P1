@@ -26,7 +26,8 @@ Se puede ver en el gráfico que casi todas los métodos que se usaron para calcu
     
   - Eulerint deriva de odeint en 21905.911229097994 km.
   - Odeint se demora 0.19784439999989445 segundos en producir los resultados, mientras que eulerint se demora 0.48605109999994056 segundos.
-3) 
+
+3)  
 
 4) 
 
