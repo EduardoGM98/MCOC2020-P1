@@ -36,3 +36,9 @@ Se puede ver en el gráfico que casi todas los métodos que se usaron para calcu
  
   - Al implementar las correcciones J2 y J3, deriva en 510.7543825309878 km.
   - El tiempo total que demoró el codigo en correr fue de 4.682183399999985 segundos.
+  
+
+# Entrega Final
+
+- Para esta entrega se agregaron las correcciones J4, J5, J6, J7 y J8 las cuales disminuyeron considerablemente el error entre la orbita real y la orbita predicha.
+
